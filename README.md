@@ -1,2 +1,1 @@
-# Learn-Everything-About-JS
-# Learn-Everything-About-JS
+# Learn-Everything-About-JS-Part-2
